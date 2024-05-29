@@ -5,3 +5,9 @@
       "ext-readline": "*"
     }
 }
+  "author": [
+        {
+            "name": "Reinis Ozolins"
+        }
+}
+      
