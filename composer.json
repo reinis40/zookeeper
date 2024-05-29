@@ -1,5 +1,7 @@
 {
     "require": {
-        "nesbot/carbon": "^3.4"
+        "nesbot/carbon": "^3.4",
+        "dariuszp/cli-progress-bar": "^1.0",
+      "ext-readline": "*"
     }
 }
